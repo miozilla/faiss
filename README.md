@@ -22,3 +22,5 @@ pip install -r requirements.txt
 ![faiss001.png](./media/faiss001.png)
 
 ![faiss002.png](./media/faiss002.png)
+
+![faiss003.png](./media/faiss003.png)
