@@ -15,7 +15,7 @@ This project demonstrates basic usage of [FAISS](https://github.com/facebookrese
 git clone https://github.com/yourusername/faiss-demo.git
 cd faiss-demo
 pip install -r requirements.txt
-
+```
 
 ## FAISS Demo
 
