@@ -12,8 +12,8 @@ This project demonstrates basic usage of [FAISS](https://github.com/facebookrese
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/faiss-demo.git
-cd faiss-demo
+git clone https://github.com/miozilla/faiss.git
+cd faiss
 pip install -r requirements.txt
 ```
 
